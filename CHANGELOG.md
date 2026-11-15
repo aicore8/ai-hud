@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/aifivem/ai-hud/compare/v0.3.0...v0.3.1) (2026-11-15)
+
+
+### Code Refactoring
+
+* **web:** individual translate / scale / rotate utilities instead of arbitrary transforms (CEF 144) ([9c16078](https://github.com/aifivem/ai-hud/commit/9c1607899e995899aa2529dc40b112a8481999f5))
+
 ## [0.3.0](https://github.com/aifivem/ai-hud/compare/v0.2.4...v0.3.0) (2026-11-02)
 
 
