@@ -48,7 +48,7 @@ export const KeyHints = memo(function KeyHints() {
   const hints = useAppSelector((s) => s.hud.keyHints);
   if (hints.length === 0) return null;
   return (
-    <ul className="absolute top-1/2 left-[2vh] flex [transform:translateY(-50%)] flex-col gap-[0.5vh]">
+    <ul className="absolute top-1/2 left-[2vh] flex -translate-y-1/2 flex-col gap-[0.5vh]">
       {hints.map((hint) => (
         <li key={hint.id} className="flex gap-[0.5vh]">
           <IconCircle
