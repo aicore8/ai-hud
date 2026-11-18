@@ -5,8 +5,8 @@ import {
   online,
   PlayerMap,
   resourceExport,
-} from "@aifivem/lib/server";
-import { CORE } from "@aifivem/shared";
+} from "@aicore8/lib/server";
+import { CORE } from "@aicore8/shared";
 import { EVENTS, type JobView } from "common/hud";
 
 const core = resourceExport("ai-core");

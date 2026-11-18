@@ -1,4 +1,4 @@
-import type { PanelSchema } from "@aifivem/shared";
+import type { PanelSchema } from "@aicore8/shared";
 import { MAP_KEYS_CARD } from "./mapCard";
 
 /** ai-hud's panel: what stresses a character and how fast it fades, what the HUD shows. */

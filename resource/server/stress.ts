@@ -3,8 +3,8 @@ import {
   onClientEvent,
   registerExport,
   stress,
-} from "@aifivem/lib/server";
-import { oneArg, readFinite } from "@aifivem/lib/shared";
+} from "@aicore8/lib/server";
+import { oneArg, readFinite } from "@aicore8/lib/shared";
 import { EVENTS, readSettings } from "common/hud";
 import { hudSchema } from "./schema";
 

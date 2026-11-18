@@ -1,4 +1,4 @@
-import { onStop } from "@aifivem/lib/client";
+import { onStop } from "@aicore8/lib/client";
 
 /** HUD_COLOUR_WAYPOINT: the waypoint blip and its GPS route. */
 const WAYPOINT = 142;

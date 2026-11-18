@@ -1,4 +1,4 @@
-import { AdminWorld, loadLocaleTexts } from "@aifivem/lib/client";
+import { AdminWorld, loadLocaleTexts } from "@aicore8/lib/client";
 import {
   DEFAULT_NEEDS,
   NEEDS,

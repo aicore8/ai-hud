@@ -1,4 +1,4 @@
-import { addCommand } from "@aifivem/lib/server";
+import { addCommand } from "@aicore8/lib/server";
 import { Locale } from "common";
 import { EVENTS } from "common/hud";
 

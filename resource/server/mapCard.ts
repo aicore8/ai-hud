@@ -1,4 +1,4 @@
-import type { CardSpec } from "@aifivem/shared";
+import type { CardSpec } from "@aicore8/shared";
 
 /** Settings card: minimap mode and zoom, waypoint colour, key hints. */
 export const MAP_KEYS_CARD: CardSpec = {

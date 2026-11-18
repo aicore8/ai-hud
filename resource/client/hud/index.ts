@@ -7,8 +7,8 @@ import {
   onServerEvent,
   onShot,
   resourceExport,
-} from "@aifivem/lib/client";
-import { CORE, KEY_HINTS, type KeyHintView, NUI_LAYER } from "@aifivem/shared";
+} from "@aicore8/lib/client";
+import { CORE, KEY_HINTS, type KeyHintView, NUI_LAYER } from "@aicore8/shared";
 import { EVENTS } from "common/hud";
 import { identity } from "../identity";
 import { openSettings, registerHudExports } from "../prefs";

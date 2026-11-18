@@ -4,7 +4,7 @@ import {
   onStop,
   registerExport,
   TickLoop,
-} from "@aifivem/lib/client";
+} from "@aicore8/lib/client";
 import { Locale } from "common";
 import { readPrefs, type Prefs, type Settings } from "common/hud";
 

@@ -1,4 +1,4 @@
-import { PLAYER_BAGS } from "@aifivem/shared";
+import { PLAYER_BAGS } from "@aicore8/shared";
 import {
   cache,
   every,
@@ -10,8 +10,8 @@ import {
   onPlayerData,
   PlayerState,
   seatbelt as belts,
-} from "@aifivem/lib/client";
-import { isRecord, rollChance } from "@aifivem/lib/shared";
+} from "@aicore8/lib/client";
+import { isRecord, rollChance } from "@aicore8/lib/shared";
 import {
   EVENTS,
   type NuiMessage,
